@@ -20,7 +20,7 @@
 - **Engine:** An AI-powered module to generate questions from uploaded content.
 - **Question Types:**
     - **10 Theoretical Questions:** Covering definitions, key concepts, and mathematical formulas.
-    - **5 Practical Questions:** Coding problems with adjustable difficulty based on the user's demonstrated skill level.
+    - **5 Practical Questions:** Coding problems with adjustable difficulty based on the user's demonstrated skill level (If any Computer Langage lectures).
 
 ### 2.3. Progress Tracking & Visualization
 
