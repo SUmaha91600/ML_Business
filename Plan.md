@@ -25,7 +25,7 @@
 ### 2.3. Progress Tracking & Visualization
 
 - **Dashboard:** A personal dashboard for each topic.
-- **Visualization:** A graph plotting `Grade` (Y-axis) against `Date` (X-axis) to show daily growth.
+- **Visualization:** A graph plotting `Grade` (X-axis) against `Date` (Y-axis) to show daily growth.
 - **Data Persistence:** All progress data will be saved to a local CSV file for tracking and analysis.
 
 ### 2.4. AI Research Assistant
