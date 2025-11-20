@@ -16,7 +16,7 @@
 C4Context
     title Star Learning Platform - System Context
 
-    Person(student, "Student", "Wants to learn and practice with quizzes")
+    (student, "Student", "Wants to learn and practice with quizzes")
     Person(researcher, "Researcher", "Needs to find and organize research papers")
     Person(admin, "Admin", "Manages the platform")
 
