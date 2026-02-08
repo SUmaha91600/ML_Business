@@ -1,20 +1,5 @@
 # Star Learning Platform - Architecture Diagrams
 
-> **How to view these diagrams:**
-> - Copy to [mermaid.live](https://mermaid.live) for instant rendering
-> - View directly on GitHub (renders automatically)
-> - Use VS Code with Mermaid extension
-> - Export as PNG/SVG from mermaid.live
-
-> **Color Palette (Star Learning Theme):**
-> - Primary Accent: #64ffda (Cyan/Green)
-> - Dark Background: #0a192f
-> - Card Background: #112240
-> - Border: #172a45
-> - Text: #ccd6f6
-
----
-
 ## 1. System Context (C4 Level 1) - The Big Picture
 
 **What is this app?** A learning platform where students upload their course materials and get AI-generated quizzes, study sheets, and personalized learning paths.
